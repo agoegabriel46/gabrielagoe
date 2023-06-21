@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Offical_Billy\Desktop\billy_todo\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="C:\Users\Offical_Billy\Desktop\billy_todo\build\app"
+    bootClassPath="C:\Users\Offical_Billy\AppData\Local\Android\Sdk\platforms\android-33\android.jar;C:\Users\Offical_Billy\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
